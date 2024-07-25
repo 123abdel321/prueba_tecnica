@@ -15,7 +15,7 @@
 
 - Se agregaron migración y modelos para guardar los usuarios registrados
 
-<img src="https://porfaolioerpbucket.nyc3.digitaloceanspaces.com/Captura%20de%20pantalla%202024-07-25%20125950.png" alt="Build Status">
+<img src="https://porfaolioerpbucket.nyc3.digitaloceanspaces.com/Captura%20de%20pantalla%202024-07-25%20130147.png" alt="Build Status">
 
 ## About Laravel
 
